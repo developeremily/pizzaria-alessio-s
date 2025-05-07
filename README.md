@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🍕 Alessio's Pizzaria
 
 Bem-vindo ao site da **Alessio's Pizzaria**, um projeto desenvolvido com HTML e CSS com foco em design moderno, responsivo e acessível.  
@@ -22,7 +21,7 @@ O site apresenta:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/pizzaria-alessio.git
+   git clone https://github.com/developeremily/pizzaria-alessio-s.git
 =======
 # pizzaria-alessio-s
->>>>>>> d17bc81dfa02feb4a720257c95959916542259a0
+
