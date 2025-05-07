@@ -10,7 +10,6 @@ O site apresenta:
 
 - Uma **página inicial** com destaque visual para a pizzaria.
 - Um **cardápio completo** com diversos sabores de pizza.
-- Seção "**Sobre Nós**" com a história da pizzaria.
 - Área de **contato** com endereço, telefone e e-mail.
 
 ## 🛠️ Tecnologias Utilizadas
@@ -23,4 +22,7 @@ O site apresenta:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/developeremily/pizzaria-alessio.git
+   git clone https://github.com/seuusuario/pizzaria-alessio.git
+=======
+# pizzaria-alessio-s
+
