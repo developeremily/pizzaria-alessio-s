@@ -4,7 +4,7 @@ Bem-vindo ao site da **Alessio's Pizzaria**, um projeto desenvolvido com HTML e 
 
 > ⚠️ **Nota:** Este projeto foi baseado no curso da One Bit Code, mas contém algumas **modificações visuais feitas por mim** para fins de aprendizado e personalização. 😊
 
-![Tela do Projeto](img/img-readme.png)
+![Tela do Projeto](img/img-reaadme.png)
 
 ## 📸 Visão Geral
 
