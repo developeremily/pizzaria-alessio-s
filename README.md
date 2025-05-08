@@ -1,8 +1,10 @@
 # 🍕 Alessio's Pizzaria
 
-Bem-vindo ao site da **Alessio's Pizzaria**, um projeto desenvolvido com HTML e CSS com foco em design moderno, responsivo e acessível. Este projeto foi criado durante o curso **[Full Stack JS da One Bit Code]** para aprimorar meus conhecimentos em desenvolvimento web.
+Bem-vindo ao site da **Alessio's Pizzaria**, um projeto desenvolvido com HTML e CSS com foco em design moderno, responsivo e acessível. Este projeto foi criado durante o curso **[Full Stack JS da One Bit Code](https://onebitcode.com)** para aprimorar meus conhecimentos em desenvolvimento web.
 
-![Tela do Projeto](img/img-reaadme.png)
+> ⚠️ **Nota:** Este projeto foi baseado no curso da One Bit Code, mas contém algumas **modificações visuais feitas por mim** para fins de aprendizado e personalização. 😊
+
+![Tela do Projeto](img/img-readme.png)
 
 ## 📸 Visão Geral
 
@@ -22,7 +24,4 @@ O site apresenta:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/pizzaria-alessio.git
-=======
-# pizzaria-alessio-s
-
+   git clone https://github.com/developeremily/pizzaria-alessio-s.git
